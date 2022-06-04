@@ -1,12 +1,11 @@
 ### Kurulumlar
 
-Java 8 (minimum version) : 
-Eclipse or IntelliJ (STS for Eclipse users), sonarlint plugin
-Docker Desktop
-Git (Not Github or est)
-MySQL, PostgreSQL
-
-Lombok
+- Java 8 (minimum version)
+- Eclipse or IntelliJ (STS for Eclipse users), sonarlint plugin
+- Docker Desktop
+- Git (Not Github or est)
+- MySQL, PostgreSQL
+- Lombok
 
 
 ### Ekstra Java Konuları
